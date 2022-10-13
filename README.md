@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VinceLM96
 - 👀 I’m interested in data science, psychology, and basketball
 - 🌱 I’m currently learning data mining and web analytics
-- 💞️ I’m looking to collaborate on intro-level project for data mining and visualization 
+- 💞️ I’m looking to collaborate on entry-level project for data mining and visualization 
 - 📫 How to reach me: vincentli9610@gmail.com
 
 <!---
