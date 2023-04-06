@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @VinceLM96
-- 👀 I’m interested in data science, psychology, and basketball
-- 🌱 I’m currently learning data mining and web analytics
-- 💞️ I’m looking to collaborate on entry-level project for data mining and visualization 
+- 👋 Hi, I’m Vincent Li
+- 👀 Data analytics professional with 3-year experience across Marketing, IT, and Education
+- 🌱 I’m currently exploring cloud computing and machine learning
 - 📫 How to reach me: vincentli9610@gmail.com
 
 <!---
