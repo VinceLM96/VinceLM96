@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Vincent Li
-- 👀 Data analytics professional with 3-year experience across Marketing, IT, and Education
-- 🌱 I’m currently exploring cloud computing and machine learning
+- 👀 Data analytics professional with 2-year experience across Marketing, IT, and Education
+- :computer: Python, SQL, R, Power BI, Tableau, Google Analytics, AWS
+- 🌱 I’m currently exploring cloud computing (AWS vs Azure) and machine learning (DS, NLP, AI)
 - 📫 How to reach me: vincentli9610@gmail.com
 
 <!---
